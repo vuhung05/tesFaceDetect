@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "463643211375",
+    "firebase_url": "https://facedetectmlkit.firebaseio.com",
+    "project_id": "facedetectmlkit",
+    "storage_bucket": "facedetectmlkit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463643211375:android:bff700029d32f001",
+        "android_client_info": {
+          "package_name": "com.example.vuhung.facedetectmlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463643211375-0q3v73hsc0p6fs7f8nnfv7dus7o8o61o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vuhung.facedetectmlkit",
+            "certificate_hash": "2f2dd96da486b736950e1fdd4315d0c4aeb5dc60"
+          }
+        },
+        {
+          "client_id": "463643211375-881i4v10msh552qhrsemqu9gp9p01arp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqHjre7tcITc49M3II-08sD8JJYUZIYWk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463643211375-881i4v10msh552qhrsemqu9gp9p01arp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
